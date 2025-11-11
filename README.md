@@ -16,33 +16,6 @@
 
 ---
 
-## 🧪 Home Lab and Projects
-
-### 🔐 pfSense Home Firewall Setup
-
-I'm building a home firewall using **pfSense** on a **Dell OptiPlex 3070 Small Form Factor** desktop. Here's how it's set up:
-
-- **Router**: NETGEAR XR1000-100APS  
-- **NIC Upgrade**: Intel i210-T1 (single-port Gigabit NIC) — [$89 from Scorptec](https://www.scorptec.com.au/product/networking/adapters/103015-interface Assignment
-- `em0` (Intel i210-T1) → WAN (connected to NBN box)  
-- `em1` (Onboard NIC) → LAN (connected to XR1000)
-
-#### ⚙️ VLAN Configuration
-- VLANs created in pfSense (e.g., VLAN 10 for IoT, VLAN 20 for Gaming, VLAN 30 for Work)  
-- TP-Link switch configured with tagged trunk port and untagged access ports  
-- XR1000 set to Access Point mode to avoid double NAT
-
-#### 📈 Features Enabled
-- 802.1Q VLAN tagging  
-- QoS and IGMP Snooping  
-- Port Mirroring for diagnostics
-
-#### 📺 Resources
-- Intel i210-T1 NIC on Scorptec  
-- [TP-Link TL-SG108E Switch](https://www.tp-link.com/au/business-networking/soho-switch-easy-smart/tl-sg108e/)  
-- [pfSense Setup Guide](https://www.youtube.com/watch?v=USVkw3ZY7fo)  
-- Zero to Hero pfSense Configuration  
-
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/souravbiswas)
