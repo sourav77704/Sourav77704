@@ -7,12 +7,12 @@
 🎯 **IT Helpdesk Support** based in Melbourne, Australia  
 🔧 Passionate about solving problems, automating tasks, and designing systems  
 🌐 Interested in **Networking**, **AI Agent**, **Cloud**, and **Cybersecurity**  
-📚 Learning through hands-on labs and certifications (currently aiming for **AZ-104**)  
+📚 Learning through Hands-on labs and certifications (currently aiming for **AZ-104**)  
 🧠 Prefers structured corporate IT environments and GUI tools  
 🚀 Building a home network with VLANs, pfSense, and Layer 3 switching  
-📦 Supporting two tenancies: **Fairbrother** and **DegreeC**  
-🛠️ Experienced in remote deployments, RMM, Intune, and printer automation  
-🌍 Worked remotely from Hong Kong and the Netherlands  
+📦 Currently Supporting two tenancies: **Fairbrother** and **DegreeC**  
+🛠️ Experienced in remote deployments, RMM, Intune, and printer Setup  
+ 
 
 ---
 
